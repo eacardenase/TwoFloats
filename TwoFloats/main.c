@@ -8,7 +8,11 @@
 #include <stdio.h>
 
 int main(int argc, const char * argv[]) {
-    // insert code here...
-    printf("Hello, World!\n");
+    float pi = 3.1415;
+    float answerToLife = 42.0;
+    double product = pi * answerToLife;
+    
+    printf("The product is %f.\n", product);
+    
     return 0;
 }
