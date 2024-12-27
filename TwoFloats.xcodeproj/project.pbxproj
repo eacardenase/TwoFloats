@@ -20,6 +20,7 @@
 
 /* Begin PBXFileReference section */
 		208488DA2D1F22EE00E709B9 /* TwoFloats */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = TwoFloats; sourceTree = BUILT_PRODUCTS_DIR; };
+		208488E42D1F22FA00E709B9 /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFileSystemSynchronizedRootGroup section */
@@ -44,6 +45,7 @@
 		208488D12D1F22EE00E709B9 = {
 			isa = PBXGroup;
 			children = (
+				208488E42D1F22FA00E709B9 /* README.md */,
 				208488DC2D1F22EE00E709B9 /* TwoFloats */,
 				208488DB2D1F22EE00E709B9 /* Products */,
 			);
